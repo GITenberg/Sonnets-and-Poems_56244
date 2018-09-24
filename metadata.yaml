@@ -1,0 +1,26 @@
+_repo: Sonnets-and-Poems_56244
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farjeon, Eleanor
+    birthdate: 1881
+    deathdate: 1965
+    gutenberg_agent_id: '794'
+    url: http://www.gutenberg.org/2009/agents/794
+    wikipedia: http://en.wikipedia.org/wiki/Eleanor_Farjeon
+description: ''
+gutenberg_issued: '2017-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56244'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 20th century'
+- !lcsh 'Sonnets, English'
+- !lcc 'PR'
+- GITenberg
+title: Sonnets and Poems
+url: http://www.gutenberg.org/ebooks/56244
